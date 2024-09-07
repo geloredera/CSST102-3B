@@ -56,7 +56,7 @@ pip install numpy pandas matplotlib
 3. The output will display the Mean Squared Error for both the training and testing sets, along with a plot visualizing the model's predictions.
 
 ## Dataset
-The dataset used for this project is `house_prices.csv`, which includes features like:
+The dataset used for this project is `datasets_house_prices.csv`, which includes features like:
 - `Size`: Size of the house in square feet.
 - `Bedrooms`: Number of bedrooms.
 - `Age`: Age of the house.
